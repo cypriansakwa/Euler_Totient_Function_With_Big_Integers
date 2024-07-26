@@ -4,5 +4,5 @@ The program contains
 1.  Big Integer Support: Utilizes the num-bigint library to handle large integers..
 2. Euler's Totient Function: Quickly computes the number of integers up to n that are coprime to n.
 
-   git clone https://github.com/cypriansakwa/Euler_Totient_Function_Big_Integers.git
-   cd Euler_Totient_Function_Big_Integers
+   git clone https://github.com/cypriansakwa/Euler_Totient_Function_With_Big_Integers.git
+   cd Euler_Totient_Function_With_Big_Integers
